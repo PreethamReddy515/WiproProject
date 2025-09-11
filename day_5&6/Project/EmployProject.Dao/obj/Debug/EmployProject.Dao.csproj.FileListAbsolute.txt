@@ -1,0 +1,9 @@
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\obj\Debug\EmployProject.Dao.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\obj\Debug\EmployProject.Dao.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\bin\Debug\EmployProject.Dao.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\bin\Debug\EmployProject.Dao.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\bin\Debug\EmployProject.Models.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\bin\Debug\EmployProject.Models.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\obj\Debug\EmployPr.C7CEE7C7.Up2Date
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\obj\Debug\EmployProject.Dao.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Dao\obj\Debug\EmployProject.Dao.pdb

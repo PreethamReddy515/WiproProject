@@ -1,0 +1,7 @@
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\bin\Debug\ExtensionSameLibrary.exe.config
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\bin\Debug\ExtensionSameLibrary.exe
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\bin\Debug\ExtensionSameLibrary.pdb
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\obj\Debug\ExtensionSameLibrary.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\obj\Debug\ExtensionSameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\obj\Debug\ExtensionSameLibrary.exe
+C:\Users\nehaa\wiproData\day4\extension\ExtensionSameLibrary\ExtensionSameLibrary\obj\Debug\ExtensionSameLibrary.pdb

@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\bin\Debug\NullableThreadsIndexer.exe.config
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\bin\Debug\NullableThreadsIndexer.exe
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\bin\Debug\NullableThreadsIndexer.pdb
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\obj\Debug\NullableThreadsIndexer.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\obj\Debug\NullableThreadsIndexer.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\obj\Debug\NullableThreadsIndexer.exe
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\obj\Debug\NullableThreadsIndexer.pdb
+C:\Users\nehaa\wiproData\day9\NullableThreadsIndexer\NullableThreadsIndexer\obj\Debug\NullableThreadsIndexer.exe.config

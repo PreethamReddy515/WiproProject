@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace helloworld
+{
+    internal class Demo
+    {
+        static void Main()
+        {
+            Data data = new Data();
+            data.Greeting();
+            data.Company();
+        }
+    }
+}

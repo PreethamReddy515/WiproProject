@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day3\day3\obj\Debug\day3ArraysReferences.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day3\day3\obj\Debug\day3ArraysReferences.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day3\day3\bin\Debug\day3ArraysReferences.exe.config
+C:\Users\nehaa\wiproData\day3\day3\bin\Debug\day3ArraysReferences.exe
+C:\Users\nehaa\wiproData\day3\day3\bin\Debug\day3ArraysReferences.pdb
+C:\Users\nehaa\wiproData\day3\day3\obj\Debug\day3ArraysReferences.exe
+C:\Users\nehaa\wiproData\day3\day3\obj\Debug\day3ArraysReferences.pdb
+C:\Users\nehaa\wiproData\day3\day3\obj\Debug\day3ArraysReferences.exe.config

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<SecureLoginMVC.Models.Product>
+@{
+    var isAdmin = User.IsInRole("Admin");
+}
+<h2>Products</h2>
+@if (TempData["Success"] != null)
+{
+    <div>@TempData["Success"]</div>
+}
+@if (isAdmin)
+{
+    <a asp-action="Create">Create Product</a>
+}
+<table>
+    <tr><th>#</th><th>Name</th><th>Price</th><th>Actions</th></tr>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Price</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@p.Id">Edit</a>
+                @if (isAdmin)
+                {
+                    <a asp-action="Delete" asp-route-id="@p.Id" onclick="return confirm('Delete?');">Delete</a>
+                }
+            </td>
+        </tr>
+    }
+</table>
+<form asp-controller="Account" asp-action="Logout" method="post">@Html.AntiForgeryToken()<button>Logout</button></form>

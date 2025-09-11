@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\bin\Debug\OperationsOnFiles.exe.config
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\bin\Debug\OperationsOnFiles.exe
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\bin\Debug\OperationsOnFiles.pdb
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\obj\Debug\OperationsOnFiles.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\obj\Debug\OperationsOnFiles.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\obj\Debug\OperationsOnFiles.exe
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\obj\Debug\OperationsOnFiles.pdb
+C:\Users\nehaa\wiproData\day5\Files\OperationsOnFiles\OperationsOnFiles\obj\Debug\OperationsOnFiles.exe.config

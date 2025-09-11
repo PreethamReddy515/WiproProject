@@ -1,0 +1,6 @@
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Models\EmployProject.Models\bin\Debug\EmployProject.Models.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Models\EmployProject.Models\bin\Debug\EmployProject.Models.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Models\EmployProject.Models\obj\Debug\EmployProject.Models.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Models\EmployProject.Models\obj\Debug\EmployProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Models\EmployProject.Models\obj\Debug\EmployProject.Models.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.Models\EmployProject.Models\obj\Debug\EmployProject.Models.pdb

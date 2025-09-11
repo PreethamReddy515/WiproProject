@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\bin\Debug\interfaces.exe.config
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\bin\Debug\interfaces.exe
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\bin\Debug\interfaces.pdb
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\obj\Debug\interfaces.exe
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\obj\Debug\interfaces.pdb
+C:\Users\nehaa\wiproData\day4\interfaces\interfaces\interfaces\obj\Debug\interfaces.exe.config

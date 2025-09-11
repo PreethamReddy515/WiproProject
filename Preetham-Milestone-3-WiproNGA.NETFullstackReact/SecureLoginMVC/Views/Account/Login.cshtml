@@ -1,0 +1,11 @@
+﻿@model SecureLoginMVC.Models.ViewModels.LoginViewModel
+<h2>Login</h2>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="Login" method="post">
+    @Html.AntiForgeryToken()
+    <div><label asp-for="Username"></label><input asp-for="Username" /></div>
+    <div><label asp-for="Password"></label><input asp-for="Password" type="password" /></div>
+    <button type="submit">Login</button>
+    <a asp-action="Register">Register</a>
+</form>

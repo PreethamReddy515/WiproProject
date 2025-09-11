@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureLoginMVC", "SecureLoginMVC.csproj", "{FB0F6C91-9492-4AB3-AE36-56ED48256A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0F6C91-9492-4AB3-AE36-56ED48256A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0F6C91-9492-4AB3-AE36-56ED48256A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0F6C91-9492-4AB3-AE36-56ED48256A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0F6C91-9492-4AB3-AE36-56ED48256A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA4F004E-A845-4B59-A5D4-B415A3096A4F}
+	EndGlobalSection
+EndGlobal

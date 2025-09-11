@@ -1,0 +1,17 @@
+﻿@model SecureLoginMVC.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+<h2>Register</h2>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="Register" method="post">
+    @Html.AntiForgeryToken()
+    <div><label asp-for="Username"></label><input asp-for="Username" /></div>
+    <div><label asp-for="Password"></label><input asp-for="Password" type="password" /></div>
+    <div>
+        <label asp-for="Role"></label>
+        <select asp-for="Role"><option>Admin</option><option>Manager</option></select>
+    </div>
+    <button type="submit">Register</button>
+</form>

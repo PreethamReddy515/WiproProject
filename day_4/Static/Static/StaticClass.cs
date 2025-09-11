@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Static
+{
+    static class Demo
+    {
+        public static void Show()
+        {
+            Console.WriteLine("Show Method from Demo Class...");
+        }
+
+        public static string Trainer()
+        {
+            return "Trainer is Prasanna P";
+        }
+    }
+    //objects of Demo cant be created
+    //can only contain static members
+
+    internal class StaticClass
+    {
+        static void Main()
+        {
+            Demo.Show();
+            Console.WriteLine(Demo.Trainer());
+        }
+    }
+}

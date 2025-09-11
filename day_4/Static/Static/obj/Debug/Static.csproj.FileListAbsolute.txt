@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day4\Static\Static\bin\Debug\Static.exe.config
+C:\Users\nehaa\wiproData\day4\Static\Static\bin\Debug\Static.exe
+C:\Users\nehaa\wiproData\day4\Static\Static\bin\Debug\Static.pdb
+C:\Users\nehaa\wiproData\day4\Static\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day4\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day4\Static\Static\obj\Debug\Static.exe
+C:\Users\nehaa\wiproData\day4\Static\Static\obj\Debug\Static.pdb
+C:\Users\nehaa\wiproData\day4\Static\Static\obj\Debug\Static.exe.config

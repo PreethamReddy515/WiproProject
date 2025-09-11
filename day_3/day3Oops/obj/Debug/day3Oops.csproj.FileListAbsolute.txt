@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day3\day3Oops\bin\Debug\day3Oops.exe.config
+C:\Users\nehaa\wiproData\day3\day3Oops\bin\Debug\day3Oops.exe
+C:\Users\nehaa\wiproData\day3\day3Oops\bin\Debug\day3Oops.pdb
+C:\Users\nehaa\wiproData\day3\day3Oops\obj\Debug\day3Oops.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day3\day3Oops\obj\Debug\day3Oops.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day3\day3Oops\obj\Debug\day3Oops.exe
+C:\Users\nehaa\wiproData\day3\day3Oops\obj\Debug\day3Oops.pdb
+C:\Users\nehaa\wiproData\day3\day3Oops\obj\Debug\day3Oops.exe.config

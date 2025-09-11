@@ -1,0 +1,16 @@
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.exe
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Models.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Dao.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.exe.config
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Bal.dll
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Bal.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Models.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\bin\Debug\EmployProject.Dao.pdb
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\obj\Debug\EmployPr.459F3D0D.Up2Date
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.exe
+C:\Users\nehaa\wiproData\day5\Project\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.pdb

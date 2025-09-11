@@ -1,0 +1,17 @@
+wwwroot\uploads\Alter.sql
+wwwroot\uploads\Borrower.cs
+wwwroot\uploads\Problem statement (1).pdf
+wwwroot\uploads\Problem Statement - C1 (1).pdf
+wwwroot\uploads\Problem Statement - C1.pdf
+wwwroot\uploads\Problem statement.pdf
+wwwroot\uploads\Problem Statement_42.pdf
+wwwroot\uploads\Real-time Chat App — Step‑by‑step Guide (job Project).pdf
+wwwroot\uploads\Screenshot 2024-10-30 100857.png
+wwwroot\uploads\Screenshot 2024-11-29 095450.png
+wwwroot\uploads\Screenshot 2025-04-11 130309.png
+wwwroot\uploads\Screenshot 2025-08-27 143148.png
+wwwroot\uploads\Screenshot 2025-08-28 150810.png
+wwwroot\uploads\Screenshot 2025-09-01 231326.png
+wwwroot\uploads\Screenshot 2025-09-02 153721.png
+wwwroot\uploads\wallpaperdog-20356296.jpg
+wwwroot\uploads\WTP.jpg

@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\nehaa\wiproData\day5\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe.config

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Access Denied";
+}
+
+<h2>Access Denied</h2>
+<p>You dont have permission to view this page.</p>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <a href="/User/Profile">Go to your profile</a>
+}
+else
+{
+    <a href="/Account/Login">Go to Login</a>
+}

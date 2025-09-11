@@ -1,0 +1,8 @@
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\bin\Debug\AbstractTraining.exe.config
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\bin\Debug\AbstractTraining.exe
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\bin\Debug\AbstractTraining.pdb
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\obj\Debug\AbstractTraining.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\obj\Debug\AbstractTraining.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\obj\Debug\AbstractTraining.exe
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\obj\Debug\AbstractTraining.pdb
+C:\Users\nehaa\wiproData\day4\abstract\AbstractTraining\AbstractTraining\obj\Debug\AbstractTraining.exe.config
